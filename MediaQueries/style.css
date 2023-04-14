@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+nav {
+    background-color: black;
+    height: 60px;
+    padding: 10px;
+}
+nav .escudo {
+    height: 60px;
+    margin: 0;
+    width: 60px;
+    float: left;
+}
+
+.abc a {
+    margin-left: 30px;
+    color: white;
+    margin-top: 80px;
+    vertical-align: center;
+}
+
